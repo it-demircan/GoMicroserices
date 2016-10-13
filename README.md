@@ -1,2 +1,2 @@
-# GoMicroserices
-Microservices with Go
+# GoMicroservices
+Learning Go [for Microservices]
